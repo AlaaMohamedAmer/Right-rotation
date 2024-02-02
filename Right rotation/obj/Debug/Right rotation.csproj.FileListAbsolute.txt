@@ -1,0 +1,7 @@
+C:\Users\ahmed\Desktop\Data structure\Right rotation\Right rotation\bin\Debug\Right rotation.exe.config
+C:\Users\ahmed\Desktop\Data structure\Right rotation\Right rotation\bin\Debug\Right rotation.exe
+C:\Users\ahmed\Desktop\Data structure\Right rotation\Right rotation\bin\Debug\Right rotation.pdb
+C:\Users\ahmed\Desktop\Data structure\Right rotation\Right rotation\obj\Debug\Right rotation.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Data structure\Right rotation\Right rotation\obj\Debug\Right rotation.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Data structure\Right rotation\Right rotation\obj\Debug\Right rotation.exe
+C:\Users\ahmed\Desktop\Data structure\Right rotation\Right rotation\obj\Debug\Right rotation.pdb
